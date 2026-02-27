@@ -1,0 +1,32 @@
+# OpenClaw
+.openclaw/workspace-state.json
+.openclaw/session-history/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Memory
+memory/
+MEMORY.md
+
+# Logs
+*.log
